@@ -1,0 +1,21 @@
+GIT & GitHub
+
+Linguagens
+
+Java
+Python
+C
+JavaScript
+SQL
+
+IDE's
+
+VSCode
+Eclipse
+NetBeans
+CodeBlocks
+
+SO's
+
+Linux (Mint, Ubuntu)
+Windows 10
